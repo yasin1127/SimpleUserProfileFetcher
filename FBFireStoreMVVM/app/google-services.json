@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755354652751",
+    "project_id": "fbfirestoremvvm",
+    "storage_bucket": "fbfirestoremvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755354652751:android:a336230d1844950e5a5a3a",
+        "android_client_info": {
+          "package_name": "com.example.fbfirestoremvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXoaOmi0fx2MC45liPbhDmk3iz4d0ROsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

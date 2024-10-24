@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343782575701",
+    "project_id": "nsda-project3",
+    "storage_bucket": "nsda-project3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343782575701:android:c4ce296603326fabd18edc",
+        "android_client_info": {
+          "package_name": "com.example.nsda_project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBeGcPA2fKalME6WU_yzN5zU3zIS7nc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
